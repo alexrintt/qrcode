@@ -1,4 +1,4 @@
-![cover](/assets/cover.png)
+![cover](/assets/coverr.png)
 
 <p align="center">
   <a href="https://alexrintt.io/r/discord">
