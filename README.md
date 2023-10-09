@@ -11,3 +11,9 @@
     <img src="/assets/webappbtn.png" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://alexrintt.io/sponsors/banner.svg" alt="Sponsors" />
+</p>
