@@ -4,7 +4,7 @@
   <a href="https://alexrintt.io/r/discord">
     <img src="/assets/discordbtn.png" />
   </a>
-  <a href="/releases">
+  <a href="https://alexrintt.io/r/qrcodewin32">
     <img src="/assets/windowsbtn.png" />
   </a>
   <a href="https://alexrintt.io/r/qrcodeweb">
