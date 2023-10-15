@@ -7,9 +7,9 @@
 ![coverr](https://github.com/alexrintt/qrcode/assets/51419598/92d9262f-7440-4d68-8839-1870808a78af)
 
 <p align="center">
-  <img src="https://alexrintt.io/sponsors/banner.svg" alt="Sponsors" />
+  <img src="https://alexrintt.io/sponsors/banner.svg" /> 
 </p>
 
 <h3 align="center">
-  <a href="https://alexrintt.io/r/sponsor">Become Sponsor</a>
+  <a href="https://alexrintt.io/r/sponsor">Become Sponsor</p>
 </h3>
