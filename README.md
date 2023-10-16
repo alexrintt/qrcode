@@ -1,10 +1,14 @@
-<!-- ![cover](/assets/coverr.png) -->
-
 <a href="https://alexrintt.io/r/discord">
-  <img src="https://img.shields.io/discord/1045839711094194256?style=flat-square&color=%23C9CDFB" />
+  <img src="https://img.shields.io/discord/1045839711094194256?style=flat-square&color=%23CBC4CF&labelColor=%23CBC4CF&logo=discord&logoColor=%23262427" />
 </a>
 
-![coverr](https://github.com/alexrintt/qrcode/assets/51419598/92d9262f-7440-4d68-8839-1870808a78af)
+<a href="https://alexrintt.io/r/qr/web">
+  <img src="/assets/cover.png" />
+</a>
+
+<a href="https://alexrintt.io/r/qr/web">
+  <img src="https://alexrintt.io/static/get-it-badge/launch-now-small-flat-square.png" />
+</a>
 
 <p align="center">
   <img src="https://alexrintt.io/sponsors/banner.svg" /> 
